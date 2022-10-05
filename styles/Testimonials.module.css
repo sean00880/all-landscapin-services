@@ -18,7 +18,7 @@
   border-bottom: 4px solid rgb(14, 14, 14);
   text-align: center;
   padding: 0px 100px;
-  color: rgba(255, 255, 255, 0.785);
+  color: rgba(49, 46, 46, 0.785);
 }
 
 .hr{
@@ -112,8 +112,4 @@
     padding: 20px;
   }
 
-  .title{
-    margin-bottom: 40px;
-    font-size: 50px;
-  }
 }

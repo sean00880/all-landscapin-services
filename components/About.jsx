@@ -30,7 +30,7 @@ const About = () => {
         <div className={style.wrapper}>
           <div className={style.imageWrapper}>
         <Image src='https://i.ibb.co/BqgFQ0T/als.png' height='400' width='600' className={style.image}/><Image src='https://i.ibb.co/Hrg9gpt/mowing2.jpg' height='400' width='600' className={style.image}/></div>
-        <h4 className={style.text}>All Landscaping Services, LLC was founded by Elmar in 2017. Over the last 5 years, we have provided professional landscaping services to hundreds of commercial and resicential clients in the state of Maryland. </h4>
+        <h4 className={style.text}>All Landscaping Services, LLC was founded by David Elmer Cruz in 2017. Over the last 5 years, we have provided professional landscaping services to hundreds of commercial and resicential clients in the state of Maryland. </h4>
 
         <hr></hr>
 

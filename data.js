@@ -214,13 +214,13 @@ export const data = [
     name: "painting",
     title: "Interior & Drywall Painting",
     desc: "We also specialize in drywall, interior and exterior painting. We offer the best service in the area.",
-    photo: "https://ibb.co/VTNG2ph",
+    photo: "https://i.ibb.co/3csbBY8/paint.png",
     longDesc:
       "We also specialize in drywall, interior and exterior painting. We offer the best service in the area.",
     images: [
       {
         id: 1,
-        url: "https://ibb.co/VTNG2ph",
+        url: "https://i.ibb.co/3csbBY8/paint.png",
       },
       {
         id: 2,

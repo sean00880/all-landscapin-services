@@ -250,13 +250,13 @@ export const data = [
     name: "tree-removal",
     title: "Tree Removal",
     desc: " All Landscaping Services provides a quality leaf removal service to keep your lawn healthy and beautiful.",
-    photo: "https://images.pexels.com/photos/962000/pexels-photo-962000.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    photo: "https://i.ibb.co/d4P13n0/treeremoval.png",
     longDesc:
       "All Landscaping Services provides a quality tree removal service to keep your lawn healthy and beautiful.",
     images: [
       {
         id: 1,
-        url: "https://images.pexels.com/photos/962000/pexels-photo-962000.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        url: "https://i.ibb.co/d4P13n0/treeremoval.png",
       },
       {
         id: 2,
@@ -285,13 +285,13 @@ export const data = [
     name: "power-washing",
     title: "Power Washing",
     desc: "We have the pressure washing equipment and know-how to safely remove filth and algae from your deck and fence, regardless of whether they are constructed of wood, vinyl, or composite materials. This will improve their appearance and lengthen their longevity.",
-    photo: "https://images.pexels.com/photos/962000/pexels-photo-962000.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    photo: "https://i.ibb.co/Z12wtPR/powerwash.png",
     longDesc:
       "We have the pressure washing equipment and know-how to safely remove filth and algae from your deck and fence, regardless of whether they are constructed of wood, vinyl, or composite materials. This will improve their appearance and lengthen their longevity. You'll feel right at home in your outdoor living space in Maryland once more following a deck power cleaning from All Landscaping Services.",
     images: [
       {
         id: 1,
-        url: "https://images.pexels.com/photos/962000/pexels-photo-962000.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        url: "https://i.ibb.co/Z12wtPR/powerwash.png",
       },
       {
         id: 2,

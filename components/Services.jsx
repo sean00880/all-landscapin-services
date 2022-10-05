@@ -31,10 +31,10 @@ const Services = ({ services }) => {
                       loop
                     />
                   ) : (
-                    <Image
+                    <image
                       src={`${process.env.NEXT_PUBLIC_URL}/img/${service.photo}`}
-                      width="100px"
-                      height="100px"
+                      width="100%"
+                      height="100%"
                       layout="responsive"
                       objectFit="cover"
                       alt=""

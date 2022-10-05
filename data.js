@@ -214,13 +214,13 @@ export const data = [
     name: "painting",
     title: "Interior & Drywall Painting",
     desc: "We also specialize in drywall, interior and exterior painting. We offer the best service in the area.",
-    photo: "https://images.pexels.com/photos/962000/pexels-photo-962000.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    photo: "https://ibb.co/VTNG2ph",
     longDesc:
       "We also specialize in drywall, interior and exterior painting. We offer the best service in the area.",
     images: [
       {
         id: 1,
-        url: "https://images.pexels.com/photos/962000/pexels-photo-962000.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        url: "https://ibb.co/VTNG2ph",
       },
       {
         id: 2,
@@ -260,23 +260,23 @@ export const data = [
       },
       {
         id: 2,
-        url: "https://images.pexels.com/photos/6489663/pexels-photo-6489663.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        url: "https://i.ibb.co/v4CfdxV/treeremoval1.jpg",
       },
       {
         id: 3,
-        url: "https://images.pexels.com/photos/3593865/pexels-photo-3593865.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        url: "https://i.ibb.co/z7G1d5z/treeremoval2.png",
       },
       {
         id: 4,
-        url: "https://images.pexels.com/photos/4065906/pexels-photo-4065906.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        url: "https://i.ibb.co/FJwD0nd/treeremoval4.jpg",
       },
       {
         id: 5,
-        url: "https://images.pexels.com/photos/6373305/pexels-photo-6373305.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        url: "https://i.ibb.co/ckD3qz0/Man-Cutting-Tree-Branch-With-Chainsaw-1024x684.webp",
       },
       {
         id: 6,
-        url: "https://images.pexels.com/photos/4197693/pexels-photo-4197693.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        url: "https://i.ibb.co/WtCDf4K/treeremoval5.webp",
       },
     ],
   },
@@ -295,23 +295,23 @@ export const data = [
       },
       {
         id: 2,
-        url: "https://images.pexels.com/photos/6489663/pexels-photo-6489663.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        url: "https://i.ibb.co/Yy0MQGm/powerwash1.jpg",
       },
       {
         id: 3,
-        url: "https://images.pexels.com/photos/3593865/pexels-photo-3593865.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        url: "https://i.ibb.co/ZdmF3m5/powerwash2.png",
       },
       {
         id: 4,
-        url: "https://images.pexels.com/photos/4065906/pexels-photo-4065906.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        url: "https://i.ibb.co/JqZHRZ4/powerwash3.png",
       },
       {
         id: 5,
-        url: "https://images.pexels.com/photos/6373305/pexels-photo-6373305.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        url: "https://i.ibb.co/0Z3BHmS/powerwash4.webp",
       },
       {
         id: 6,
-        url: "https://images.pexels.com/photos/4197693/pexels-photo-4197693.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        url: "https://i.ibb.co/c8Kd2xf/powerwash5.jpg",
       },
     ],
   },

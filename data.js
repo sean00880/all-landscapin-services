@@ -4,7 +4,7 @@ export const data = [
     name: "mowing",
     title: "Mowing",
     desc: "Your lawn will be trimmed in addition to being mowed. Within the turf area, our personnel will handle all line trimming around obstacles and structures and use a power edger to edge any pathways, sidewalks, and hard edges++899.",
-    photo: "https://i.ibb.co/ykytH0n/mowing.png",
+    photo: "mowing.png",
     longDesc:
       "Your lawn will be trimmed in addition to being mowed. Within the turf area, our personnel will handle all line trimming around obstacles and structures and use a power edger to edge any pathways, sidewalks, and hard edges. The debris left over after pruning and mowing will subsequently be blown off of all the property's hard surfaces.",
     images: [
@@ -39,7 +39,7 @@ export const data = [
     name: "trimming-and-pruning",
     title: "Trimming & Pruning",
     desc: "With our hedge and shrub trimming and prunning service, you may give your house and yard a polished, well-groomed appearance.",
-    photo: "https://i.ibb.co/LnJPfRY/trimming.png",
+    photo: "trimming.png",
     longDesc:
       "With our hedge and shrub trimming and prunning service, you may give your house and yard a polished, well-groomed appearance. Available are shaping and trimming.",
     images: [
@@ -74,7 +74,7 @@ export const data = [
     name: "mulching",
     title: "Mulching",
     desc: "Mulch reduces soil compaction during the wet season and stops weeds from growing. Additionally, it encourages soil nourishment and aids in regulating and maintaining the soil's consistent temperature.",
-    photo: "https://i.ibb.co/xmXYqcq/mulch.png",
+    photo: "mulch.png",
     longDesc:
       "Mulch reduces soil compaction during the wet season and stops weeds from growing. Additionally, it encourages soil nourishment and aids in regulating and maintaining the soil's consistent temperature. Mulch also aids in water conservation because it helps the roots of the plants receive more water by retaining moisture from irrigation. Finally, it can assist in maintaining a pleasing and consistent appearance on your home.",
     images: [
@@ -109,7 +109,7 @@ export const data = [
     name: "seeding",
     title: "Seeding",
     desc: "Our lawn seeding service can be exactly what you need if your lawn is starting to look a little sparse. A fast seed treatment is generally all that is required to restore your lawn to its former beauty.",
-    photo: "https://i.ibb.co/HKnH8Wp/seeding.png",
+    photo: "seeding.png",
     longDesc:
       "Our lawn seeding service can be exactly what you need if your lawn is starting to look a little sparse. A fast seed treatment is generally all that is required to restore your lawn to its former beauty. Most lawns need additional seed applications every few years. Our professionals will begin by prepping the ground for a seed application if there are barren patches or bald places in your yard.Afterward, they will seed the area to blend in with the rest of your grass. The grass strains best suited to grow in those circumstances must be matched with the soil and lighting conditions.",
     images: [
@@ -144,7 +144,7 @@ export const data = [
     name: "fertilizing",
     title: "Fertilizing ",
     desc: "All Landscaping Services recognizes that fertilization is the cornerstone of every effective plant health care program, and we provide it twice a year, in the spring and fall, to produce the best results...",
-    photo: "https://i.ibb.co/10CbB8M/fertilizing.png",
+    photo: "fertilizing.png",
     longDesc:
       "All Landscaping Services recognizes that fertilization is the cornerstone of every effective plant health care program, and we provide it twice a year, in the spring and fall, to produce the best results. In order to address the life cycles of certain pests, diseases, and hard seasons when plants are subject to environmental challenges, we also know that the timing of foliar and bark protection services (for insects & disease management) should be seasonal and vary by location. This is why, from the early spring until the fall, we provide a variety of insect and disease applications.",
     images: [
@@ -179,7 +179,7 @@ export const data = [
     name: "hardscaping-and-installations",
     title: "Hardscaping & Intallations",
     desc: "Our staff can work with you to incorporate hardscape designs into the layout to help you achieve your ideal landscaping vision. Whatever the design of your ideal environment, we can assist you in realizing it. ",
-    photo: "https://i.ibb.co/f0Js4Tp/hardscaping.png",
+    photo: "hardscaping.png",
     longDesc:
       "Our staff can work with you to incorporate hardscape designs into the layout to help you achieve your ideal landscaping vision. Whatever the design of your ideal environment, we can assist you in realizing it. For our cherished residential and commercial customers, our professionals are happy to provide cutting-edge landscaping solutions. Please get in touch with us if you're a homeowner and would want to discuss your landscape design with our experts.",
     images: [

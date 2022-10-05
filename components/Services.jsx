@@ -31,8 +31,8 @@ const Services = ({ services }) => {
                       loop
                     />
                   ) : (
-                    <image
-                      src={`${process.env.NEXT_PUBLIC_URL}/img/${service.photo}`}
+                    <Image
+                      src={`/img/${service.photo}`}
                       width="100%"
                       height="100%"
                       layout="responsive"

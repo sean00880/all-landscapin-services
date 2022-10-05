@@ -224,23 +224,23 @@ export const data = [
       },
       {
         id: 2,
-        url: "https://images.pexels.com/photos/6489663/pexels-photo-6489663.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        url: "https://i.ibb.co/XFQcjkm/5b-Jf-Ymx-Y8l-Tp-Cy-Wp9-S-xo-Afa-Tsg6-Dp82wx8-V4h-BNg.webp",
       },
       {
         id: 3,
-        url: "https://images.pexels.com/photos/3593865/pexels-photo-3593865.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        url: "https://i.ibb.co/Mgz3KFn/interior-wall-painting-pittsburgh.jpg",
       },
       {
         id: 4,
-        url: "https://images.pexels.com/photos/4065906/pexels-photo-4065906.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        url: "https://i.ibb.co/7jybHwc/wallpaper-patching-walls2-1.jpg",
       },
       {
         id: 5,
-        url: "https://images.pexels.com/photos/6373305/pexels-photo-6373305.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        url: "https://i.ibb.co/XYR5qxV/IMG-0754-scaled.jpg",
       },
       {
         id: 6,
-        url: "https://images.pexels.com/photos/4197693/pexels-photo-4197693.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        url: "https://i.ibb.co/k24Y9kJ/drywall.jpg",
       },
     ],
   }

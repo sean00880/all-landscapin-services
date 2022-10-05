@@ -33,8 +33,8 @@ const Services = ({ services }) => {
                   ) : (
                     <Image
                       src={`${process.env.NEXT_PUBLIC_URL}/img/${service.photo}`}
-                      width="100%"
-                      height="100%"
+                      width="100px"
+                      height="100px"
                       layout="responsive"
                       objectFit="cover"
                       alt=""

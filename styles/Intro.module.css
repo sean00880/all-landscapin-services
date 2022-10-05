@@ -1,0 +1,149 @@
+.container {
+  width: 100%;
+  height: calc(100vh - 173px);
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  border-bottom: 3px solid rgba(0, 0, 0, 0.799);
+  background: linear-gradient(rgb(224, 223, 223) 25%, rgb(26, 26, 26) 50%, rgb(31, 69, 44) 75%);
+  margin-top:173px;
+}
+
+.hero{
+
+  text-align: center;
+}
+
+.logo{
+  position: absolute;
+  position: center;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.card {
+  flex: 1;
+  padding: 0px;
+  padding-right: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  position: relative;
+  align-items: center;
+}
+
+.circle {
+  width: 100vh;
+  height: 100vh;
+  border-radius: 50%;
+  opacity: 0.1;
+  position: absolute;
+  z-index: 999;
+}
+
+.circle1 {
+  background-color: #01c686;
+  right: -40vh;
+}
+
+.circle2 {
+  background-color: #b0ff49;
+  left: -50vh;
+  top: -50vh;
+}
+
+.title {
+  font-size: 45px;
+  margin: 0px 5px;
+  letter-spacing: 5px;
+  text-indent: 3rem;
+}
+
+.brandName {
+  color: green;
+}
+
+.desc {
+  font-size: 20px;
+  margin: 13px;
+  text-align: center;
+  background: #5e5e5e26;
+  width: 100%;
+  border-radius: 10px 30px;
+  border: 3px solid rgba(255, 255, 255, 0.584);
+}
+
+.desc h3{
+  letter-spacing: 4px;
+  border-top:2px solid;
+  border-bottom:2px solid;
+  line-height: 2;
+  vertical-align: middle;
+  background: white;
+  color: #285a2cbf;
+}
+
+.desc h5{
+  letter-spacing: 3px;
+  background: #efefef;
+  color: green;
+  line-height: 2;
+}
+
+.button {
+  border: none;
+  background-color: rgba(190, 38, 38, 0.777);
+  color: rgb(242, 242, 242);
+  font-weight: bold;
+  margin: 10px 0px;
+  padding: 20px;
+  border-radius: 10px;
+  width: 30%;
+  cursor: pointer;
+  animation: button 3s ease infinite alternate;
+  align-items: center;
+  justify-content: center;
+  position: center;
+  border: 2px solid rgba(35, 34, 34, 0.861);
+  border-radius: 80px 10px;
+}
+
+@keyframes button {
+  to{
+    background-color: rgb(55, 52, 51);
+    color: rgb(144, 185, 139);
+    border: 2px solid rgba(202, 204, 202, 0.87);
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .container {
+    flex-direction: column;
+  }
+
+  .circle1 {
+    right: -50vh;
+    bottom: -50vh;
+  }
+
+  .card {
+    padding: 20px;
+    align-items: center;
+    text-align: center;
+    justify-content: space-between;
+  }
+
+  .title{
+    font-size: 23px;
+  }
+
+  .button{
+    width: 100%;
+  }
+
+  .desc{
+    width: 100%;
+  }
+
+}

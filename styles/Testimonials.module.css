@@ -1,0 +1,119 @@
+.container {
+  font-size: 18px;
+  height: 100vh;
+  padding-bottom: 100px;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  background: rgba(255, 255, 255, 0.331);
+  border-top: 3px solid rgb(110, 48, 35);
+  border-bottom: 3px solid rgba(81, 89, 78, 0.879);
+}
+
+.title {
+  font-size: 30px;
+  border-bottom: 4px solid rgb(14, 14, 14);
+  text-align: center;
+  padding: 0px 100px;
+  color: rgba(255, 255, 255, 0.785);
+}
+
+.hr{
+  color: black;
+}
+
+.subtitle{
+  background: #ffffffd1;
+  line-height: 1.3;
+  padding: 10px;
+  border: 2px solid green;
+  text-align: center;
+  letter-spacing: 4px;
+  font-size: 34px;
+  border-radius: 10px;
+  color: rgb(22, 75, 35);
+}
+
+
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+  background-image: url('https://i.ibb.co/hBZQcbX/Asset-2-1.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: rgb(23, 23, 23);
+  padding: 100px 10px;
+}
+
+.card {
+  width: 30%;
+  background-color: rgb(31, 29, 29);
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.comment {
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.person {
+  display: flex;
+  align-items: center;
+}
+
+.avatar {
+  border-radius: 50%;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+}
+
+.username {
+  font-weight: bold;
+  color: rgb(230, 225, 225);
+}
+
+.jobTitle {
+  font-size: 14px;
+}
+
+@media screen and (max-width: 480px) {
+  .container {
+    padding-bottom: 20px;
+  }
+  .wrapper {
+    align-items: center;
+    justify-content: center;
+  }
+  .card {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 50px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .container{
+    height: auto;
+    padding: 20px;
+  }
+
+  .title{
+    margin-bottom: 40px;
+    font-size: 50px;
+  }
+}

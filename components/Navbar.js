@@ -43,13 +43,13 @@ const Navbar = () => {
       </div>
       <ul onClick={()=>setOpen(false)} className={style.menu} style={{ right: open ? "0px" : "-100vw" }}>
         <li className={style.menuItem}>
-          <Link href="/"></Link>
+          <Link href="/">Home</Link>
         </li>
         <li className={style.menuItem}>
           <Link href="/#about">ABOUT</Link>
         </li>
         <li className={style.menuItem}>
-          <Link href="/allservices">SERVICES</Link>
+          <Link href="/allservices#services">SERVICES</Link>
         </li>
         <li className={style.menuItem}>
           <Link href="/#testimonials">TESTIMONIALS</Link>

@@ -7,7 +7,6 @@ const Contact = () => {
     <div className={style.container}>
       <div className={style.wrapper}>
         <Circle backgroundColor="green" left="-40vh" top="-20vh" className={style.circle}/>
-        <Circle backgroundColor="yellow" right="-30vh" bottom="-60vh" className={style.circle}/>
         <h2 className={style.title}>Contact</h2>
         <Flip top>
         <h1 className={style.subtitle}>Get Your Free Estimate<hr></hr>All Landscaping Services, LLC</h1>
@@ -15,6 +14,7 @@ const Contact = () => {
       <form className={style.form}>
       <div>
           <h2>3 steps</h2>
+          <hr />
           1 - Review our list of services provided. <br />
           2 - Reach out to us for a free estimate. <br />
           3 - Schedule a visit for your exciting landscaping project.

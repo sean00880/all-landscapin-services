@@ -2,8 +2,9 @@
   padding: 0px 20px;
   justify-content: center;
   align-items: center;
-  color:white;
+  background:rgb(234, 231, 231);
   height: auto;
+  border-radius: 10px;
 }
 
 .title {
@@ -109,6 +110,10 @@
   border-radius: 10% 32%;
   overflow: hidden;
   transition: all 1s ease;
+}
+
+.service:hover {
+  border: 3px dashrgba(228, 228, 228, 0.885)25);
 }
 
 .service:hover .media {

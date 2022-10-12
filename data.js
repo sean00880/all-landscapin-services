@@ -30,7 +30,7 @@ export const data = [
       },
       {
         id: 6,
-        url: "https://images.pexels.com/photos/4197693/pexels-photo-4197693.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        url: "https://i.ibb.co/ncygTRY/lawn5.jpg",
       },
     ],
   },

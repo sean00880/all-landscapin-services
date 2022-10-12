@@ -7,9 +7,10 @@ import AboutCard from './AboutCard'
 import ReactCardFlip from "react-card-flip";
 
 const CardStyle = {
-  height: "40vh",
-  width: "30vh",
+  height: "47vh",
+  width: "33vh",
   marginBottom:"10px",
+  
 };
 
 

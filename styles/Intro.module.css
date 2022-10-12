@@ -28,7 +28,9 @@
   position: center;
   justify-content: center;
   align-items: center;
-  
+  border: 5px solid #0204037d;
+  background: #ffffffa8;
+  border-radius: 50%;
 }
 
 .card {
@@ -69,9 +71,10 @@
   letter-spacing: 5px;
   text-indent: 3rem;
   width: 100%;
-    background: #8b8b8b6b;
-    text-align: center;
     border-radius: 30px 13px;
+    background: #2630294a;
+    text-align: center;
+    border: 8px double #707070;
 }
 
 .brandName {

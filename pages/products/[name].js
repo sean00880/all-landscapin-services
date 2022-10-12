@@ -8,10 +8,10 @@ const Product = ({ product }) => {
   return (
     <div className={style.container}>
       <Head>
-        <title>Digital Design for Your Product</title>
+        <title>All Landscaping Services, LLC. | Professional Lawn & Landscaping Services in Westminster, Maryland</title>
         <meta
           name="description"
-          content="Web Design, App Development, Content Creation Agency Near NY"
+          content="Westminster, Marlyand's lawn care, hardscaping and seasonal landscaping services. "
         />
       </Head>
       <div className={style.cardS}>
@@ -19,7 +19,7 @@ const Product = ({ product }) => {
         <hr />
         <p className={style.desc}>{product.longDesc}</p>
         <button className={style.button}>
-          <Link href="/contact">Request Your Free Quote</Link>
+          <Link href="/contact"> Request Your Free Quote </Link>
         </button>
       </div>
       <div className={style.cardL}>

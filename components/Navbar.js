@@ -54,9 +54,8 @@ const Navbar = () => {
         <li className={style.menuItem}>
           <Link href="/#testimonials">TESTIMONIALS</Link>
         </li>
-        <hr />
         <li className={style.menuItem}>
-          <Link href="/#faq">FAQ</Link>
+          <Link href="/#faq">FAQ | Map</Link>
         </li>
         <li className={style.menuItem}>
           <Link href="/#contact">CONTACT</Link>

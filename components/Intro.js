@@ -7,6 +7,7 @@ const Intro = () => {
     <div className={style.container}>
       {/* <div className={`${style.circle} ${style.circle1}`} />
       <div className={`${style.circle} ${style.circle2}`} /> */}
+      <div className={style.overlay}>
       <Circle backgroundColor="#01c686" top="-45vh" left="-45vh" />
       {/* <Circle backgroundColor="#01c686" right="-40vh" /> */}
       <div className={style.card}>
@@ -22,7 +23,7 @@ const Intro = () => {
         </p>
         <button className={style.button}>View All Landscaping Services</button>
       </div>
-
+      </div>
     </div>
   );
 };

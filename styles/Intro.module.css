@@ -5,8 +5,13 @@
   overflow: hidden;
   position: relative;
   border-bottom: 3px solid rgba(0, 0, 0, 0.799);
-  background: linear-gradient(rgb(224, 223, 223) 25%, rgb(26, 26, 26) 50%, rgb(31, 69, 44) 75%);
+  background-image: url('https://i.ibb.co/J7rjnHj/lawn.jpg');
   margin-top:173px;
+}
+
+.overlay{
+  background: linear-gradient(rgba(224, 223, 223, 0.68) 25%, rgba(26, 26, 26, 0.737) 50%, rgba(31, 69, 44, 0.332) 75%);
+  
 }
 
 .hero{
@@ -132,6 +137,7 @@
     align-items: center;
     text-align: center;
     justify-content: space-between;
+    height: 77vh;
   }
 
   .title{

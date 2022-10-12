@@ -9,6 +9,8 @@
   background-attachment: fixed;
   background-size: cover;
   margin-top:173px;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .overlay{
@@ -178,5 +180,8 @@
   }
   .brandName {
     font-size:44px;
+  }
+  .container {
+    background-size: contain;
   }
 }

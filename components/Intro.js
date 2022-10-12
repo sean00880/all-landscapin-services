@@ -11,7 +11,7 @@ const Intro = () => {
       <Circle backgroundColor="#01c686" top="-45vh" left="-45vh" />
       {/* <Circle backgroundColor="#01c686" right="-40vh" /> */}
       <div className={style.card}>
-      <Image width={150} height={150} src="https://i.ibb.co/hBZQcbX/Asset-2-1.png" className={style.logo}></Image>
+      <Image width={150} height={150} src="https://i.ibb.co/hBZQcbX/Asset-2-1.png" className={style.logo} layout='responsive'></Image>
         <h1 className={style.title}>
           <span className={style.brandName}>ALL</span> LANDSCAPING SERVICES, LLC
         </h1>

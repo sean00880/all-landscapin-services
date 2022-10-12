@@ -15,7 +15,9 @@
   color: rgba(65, 118, 65, 0.872);
 }
 
-
+.logo{
+  opacity:.4;
+}
 .desc{
   font-weight:200;
 }
@@ -54,6 +56,9 @@
   justify-content: space-around;
   margin: 100px 0;
 }
+
+
+
 
 .service {
   width: 350px;

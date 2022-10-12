@@ -1,6 +1,6 @@
 .container {
   width: 100%;
-  height: calc(100vh - 173px);
+  min-height: calc(100vh - 173px);
   display: flex;
   overflow: hidden;
   position: relative;
@@ -72,7 +72,7 @@
   text-indent: 3rem;
   width: 100%;
     border-radius: 30px 13px;
-    background: #2630294a;
+    background: #ffffffba;
     text-align: center;
     border: 8px double #707070;
 }
@@ -105,9 +105,9 @@
 
 .desc h5{
   letter-spacing: 3px;
-  background: #efefef;
+  background: #0c0c0cd1;
   color: green;
-  line-height: 2;
+  font-size: 27px;
 }
 
 .button {
@@ -166,4 +166,17 @@
     width: 100%;
   }
 
+}
+
+@media screen and (max-width: 600px){
+  .logo {
+    display: none;
+  }
+  .desc h3{
+    line-height: 2;
+    font-size: 13px;
+  }
+  .brandName {
+    font-size:44px;
+  }
 }

@@ -46,6 +46,9 @@ const Services = ({ services }) => {
             </Link>
           ))}
         </div>
+        <div className={style.logowrapper}>
+        <Image width={150} height={150} src="https://i.ibb.co/hBZQcbX/Asset-2-1.png" className={style.logo}></Image>
+        </div>
       </div>
     </div>
   );

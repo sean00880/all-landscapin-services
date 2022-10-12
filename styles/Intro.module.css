@@ -59,12 +59,14 @@
 .circle1 {
   background-color: #01c686;
   right: -40vh;
+  display: none;
 }
 
 .circle2 {
   background-color: #b0ff49;
   left: -50vh;
   top: -50vh;
+  display: none;
 }
 
 .title {
@@ -177,6 +179,7 @@
   .desc h3{
     line-height: 2;
     font-size: 13px;
+    margin-top: 39px;
   }
   .brandName {
     font-size:44px;

@@ -5,7 +5,7 @@ import Flip from 'react-reveal/Flip';
 const Contact = () => {
   return (
     <div className={style.container}>
-      <div>
+      <div className={style.wrapper}>
         <Circle backgroundColor="green" left="-40vh" top="-20vh" className={style.circle}/>
         <Circle backgroundColor="yellow" right="-30vh" bottom="-60vh" className={style.circle}/>
         <h2 className={style.title}>Contact</h2>

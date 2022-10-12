@@ -57,17 +57,17 @@
 .service {
   width: 350px;
   height: 400px;
-  background-color: whitesmoke;
   padding: 10px;
   display: flex;
   align-items: center;
   justify-content: center;
   position: relative;
-  margin-bottom: 50px;
+  margin: 25px 0;
   cursor: pointer;
   border-radius: 40px 60px;
-  background: #ffffff59;
+  background: rgba(22, 75, 35, 0.939);
   border: 3px solid rgba(42, 41, 41, 0.625);
+  color: rgb(234, 231, 231);
   
 }
 

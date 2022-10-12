@@ -8,7 +8,6 @@ const Intro = () => {
       {/* <div className={`${style.circle} ${style.circle1}`} />
       <div className={`${style.circle} ${style.circle2}`} /> */}
       <div className={style.overlay}>
-      <Circle backgroundColor="#01c686" top="-45vh" left="-45vh" />
       {/* <Circle backgroundColor="#01c686" right="-40vh" /> */}
       <div className={style.card}>
       <Image width={150} height={150} src="https://i.ibb.co/hBZQcbX/Asset-2-1.png" className={style.logo} layout='responsive'></Image>

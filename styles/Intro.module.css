@@ -187,5 +187,10 @@
   }
   .container {
     background-size: contain;
+    background-image: none;
+  }
+
+  .overlay{
+    background: linear-gradient(rgba(224, 223, 223, 0.68), rgba(26, 26, 26, 0.737), rgba(31, 69, 44, 0.332));
   }
 }

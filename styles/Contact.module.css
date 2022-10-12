@@ -48,7 +48,13 @@
   height: 500px;
   padding: 50px;
   display: flex;
-  flex-wrap: wrap;
+  flex-direction: row;
+  width: 100%;
+}
+
+.form div {
+  flex-direction: row;
+  width: 100%;
 }
 
 .inputS {
@@ -70,6 +76,9 @@
 .textArea {
   width: 100%;
   padding-left: 10px;
+  border-radius: 23px;
+  margin: 10px;
+  padding: 10px 55px;
 }
 
 .button {
@@ -84,13 +93,19 @@
   cursor: pointer;
 }
 
+.form input {
+  border-radius: 90px 12px;
+  margin: 10px 10px;
+  padding: 10px 55px;
+}
+
 @media screen and (max-width: 480px) {
+
 
   .form {
     width: 100%;
+    flex-direction: column;
+    height: auto;
   }
 
-  .inputS:first-child {
-    margin: 0;
-  }
 }

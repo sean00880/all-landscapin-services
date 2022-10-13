@@ -20,7 +20,7 @@ const Contact = () => {
           3 - Schedule a visit for your exciting landscaping project.
         </div>
         <hr />
-        <div>
+        <div className={style.contactHr} >
         <input className={style.inputS} type="text" placeholder="Name" />
         <input className={style.inputS} type="text" placeholder="Phone" />
         <input className={style.inputL} type="text" placeholder="Email" />

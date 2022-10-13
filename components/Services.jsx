@@ -21,7 +21,7 @@ const Services = ({ services }) => {
             <Link key={service.id} href={`/products/${service.name}`} passHref>
               <div className={style.service}>
                 <div className={style.catInfo}><h3>{service.desc}</h3></div>
-                <span className={style.cat}>{service.title}</span>
+                <span className={style.cat}>{service.title} <hr /> </span>
                 <div className={style.media}>
                   {service.video ? (
                     <video

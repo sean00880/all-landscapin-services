@@ -35,6 +35,7 @@
   border-radius: 4px;
   justify-content: center;
   align-items: center;
+
 }
 
 .cardFront{
@@ -103,6 +104,17 @@
   position: relative;
   display: flex;
   justify-content: space-around;
+  background: #93a68d;
+  padding: 30px;
+}
+
+.imageWrapper div{
+  border:3px solid white;
+  border-radius: 30px;
+}
+
+.imageWrapper img{
+  border: 3px solid white;
 }
 
 .wrapper .image{
@@ -137,6 +149,7 @@
   text-indent: 40px;
   line-height: 3;
   padding: 10px;
+  position: relative;
 }
 
 .services {

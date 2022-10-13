@@ -22,8 +22,10 @@
 }
 
 .container span{
-  color: green;
+  color: rgb(73, 76, 73);
 }
+
+
 
 .home{
   color: black;
@@ -40,12 +42,21 @@
   letter-spacing: 5px;
 }
 
+.listItem:hover {
+  color:rgb(20, 69, 20)
+}
+
+.listItem2:hover {
+  color:rgb(13, 14, 13)
+}
+
+
 .listItem2 {
   display: inline;
   margin-right: 30px;
   font-size: 14px;
   /* font-weight: 300; */
-  color: rgb(36, 138, 36);
+  color: rgb(233, 238, 233);
   cursor: pointer;
   font-weight: 500;
   letter-spacing: 5px;

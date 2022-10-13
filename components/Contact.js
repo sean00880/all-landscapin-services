@@ -19,8 +19,8 @@ const Contact = () => {
           2 - Reach out to us for a free estimate. <br />
           3 - Schedule a visit for your exciting landscaping project.
         </div>
-        <hr />
-        <div className={style.contactHr} >
+        <hr className={style.contactHr} />
+        <div  >
         <input className={style.inputS} type="text" placeholder="Name" />
         <input className={style.inputS} type="text" placeholder="Phone" />
         <input className={style.inputL} type="text" placeholder="Email" />

@@ -22,7 +22,7 @@ const Testimonials = () => {
             <div className={style.person}>
               <Image
                 className={style.avatar}
-                src={`${process.env.NEXT_PUBLIC_URL}/img/${user.avatar}`}
+                src={user.avatar}
                 width="45"
                 height="45"
                 objectFit="cover"

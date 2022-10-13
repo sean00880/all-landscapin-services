@@ -322,7 +322,7 @@ export const users = [
   {
     id: 1,
     logo: "google.png",
-    avatar: "user2.jpeg",
+    avatar: "https://i.ibb.co/p15Fj0z/tim.jpg",
     comment:
       "Great work quality honest great great service we used multiple time different services definitely recommend.",
     name: "Tim C.",

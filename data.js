@@ -3,7 +3,7 @@ export const data = [
     id: 1,
     name: "mowing",
     title: "Mowing",
-    desc: "Your lawn will be trimmed in addition to being mowed. Within the turf area, our personnel will handle all line trimming around obstacles and structures and use a power edger to edge any pathways, sidewalks, and hard edges++899.",
+    desc: "Your lawn will be trimmed in addition to being mowed. Within the turf area, our personnel will handle all line trimming around obstacles and structures and use a power edger to edge any pathways, sidewalks, and hard edges.",
     photo: "https://i.ibb.co/ykytH0n/mowing.png",
     longDesc:
       "Your lawn will be trimmed in addition to being mowed. Within the turf area, our personnel will handle all line trimming around obstacles and structures and use a power edger to edge any pathways, sidewalks, and hard edges. The debris left over after pruning and mowing will subsequently be blown off of all the property's hard surfaces.",

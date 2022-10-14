@@ -1,6 +1,7 @@
 import Circle from "../components/Circle";
 import style from "../styles/Contact.module.css";
 import Image from 'next/image'
+import Head from 'next/head'
 
 const Contact = () => {
   return (

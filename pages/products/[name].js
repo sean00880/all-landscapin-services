@@ -9,6 +9,7 @@ const Product = ({ product }) => {
     <div className={style.container}>
       <Head>
         <title>All Landscaping Services, LLC. | Professional Lawn & Landscaping Services in Westminster, Maryland</title>
+        <meta name="google-site-verification" content="dc24KWyRESpQWDA8kk0H2jHprXUGDALBCxfVM7834KU" />
         <meta
           name="description"
           content="Westminster, Marlyand's lawn care, hardscaping and seasonal landscaping services. "

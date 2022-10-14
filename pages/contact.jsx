@@ -4,7 +4,16 @@ import Image from 'next/image'
 
 const Contact = () => {
   return (
+    
     <div className={style.container}>
+      <Head>
+        <title>All Landscaping Services, LLC | Landscaping in Westminster, MD</title>
+        <meta name="google-site-verification" content="dc24KWyRESpQWDA8kk0H2jHprXUGDALBCxfVM7834KU" />
+        <meta
+          name="description"
+          content="Commercial and Residential Landscaping. Proudly serving Westminster, Maryland and surrounding regions. "
+        />
+      </Head>
         <Circle backgroundColor="green" left="-40vh" top="-20vh" className={style.circle}/>
         <Circle backgroundColor="yellow" right="-30vh" bottom="-60vh" className={style.circle}/>
         <Image width={90} height={90} src="https://i.ibb.co/hBZQcbX/Asset-2-1.png" className={style.logo} priority={true}></Image>

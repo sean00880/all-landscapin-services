@@ -8,6 +8,7 @@ export default function Home({ services }) {
     <div>
       <Head>
         <title>All Landscaping Services, LLC | Landscaping in Westminster, MD</title>
+        <meta name="google-site-verification" content="dc24KWyRESpQWDA8kk0H2jHprXUGDALBCxfVM7834KU" />
         <meta
           name="description"
           content="Commercial and Residential Landscaping. Proudly serving Westminster, Maryland and surrounding regions. "

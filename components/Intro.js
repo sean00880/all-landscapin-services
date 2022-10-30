@@ -17,7 +17,7 @@ const Intro = () => {
         <p className={style.desc}>
           <h3 className={style.text}>Commercial & Residential Landscaping Services | Westminster, MD</h3>
           <hr></hr>
-          <h5 className={style.text}><marquee Scrollamount='12'>Serving Westminster, Maryland and surrounding regions. </marquee></h5>
+          <h5 className={style.text}><marquee scrollamount='12'>Serving Westminster, Maryland and surrounding regions. </marquee></h5>
           
         </p>
         <button className={style.button}>View All Landscaping Services</button>

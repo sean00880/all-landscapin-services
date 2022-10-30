@@ -1,0 +1,123 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+    padding: 0 20px;
+    min-height: 100vh;
+    color: rgb(22, 81, 15);
+    border-top:3px solid rgb(39, 118, 39);
+    padding-top: 24vh;
+  }
+  
+  .wrapper{ 
+    width: 100%;
+    margin-top: 10vh;
+  }
+  
+  .contactHr{
+    margin:10px;
+  }
+  
+  .title {
+    font-size: 30px;
+    border-bottom: 4px solid rgb(14, 14, 14);
+    text-align: center;
+    color: rgb(216, 216, 216);
+    width: 100%;
+  }
+  
+  .subtitle{
+    background: #ffffffd1;
+    line-height: 1.3;
+    padding: 10px;
+    border: 2px solid green;
+    text-align: center;
+    letter-spacing: 4px;
+    font-size: 34px;
+    border-radius: 10px;
+    color: rgb(22, 75, 35);
+    width: 100%;
+  }
+  
+  .contactInfo {
+    background:black;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    font-weight: 200;
+    margin: 200px 0px;
+  }
+  
+  .form {
+    width: 500px;
+    height: 500px;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+  
+  .form div {
+    flex-direction: row;
+    width: 100%;
+    background: white;
+    padding: 56px;
+    border-radius: 10px;
+    margin: auto;
+  }
+  
+  .inputS {
+    flex: 1;
+    height: 50px;
+    padding-left: 10px;
+  }
+  
+  .inputS:first-child {
+    margin-right: 5px;
+  }
+  
+  .inputL {
+    width: 100%;
+    height: 50px;
+    padding-left: 10px;
+  }
+  
+  .textArea {
+    width: 100%;
+    padding-left: 10px;
+    border-radius: 23px;
+    margin: 10px;
+    padding: 10px 55px;
+  }
+  
+  .button {
+    margin-top: 20px;
+    padding: 15px 10px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(76 93 76);
+    color: white;
+    width: 100%;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .form input {
+    border-radius: 90px 12px;
+    margin: 10px 10px;
+    padding: 10px 55px;
+  }
+  
+  @media screen and (max-width: 480px) {
+  
+  
+    .form {
+      width: 100%;
+      flex-direction: column;
+      height: auto;
+    }
+  
+  }
+  

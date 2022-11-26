@@ -17,7 +17,7 @@ export default function Home({ services }) {
         <meta name="google-site-verification" content="dc24KWyRESpQWDA8kk0H2jHprXUGDALBCxfVM7834KU" />
         <meta
           name="description"
-          content="Commercial and Residential Landscaping. Proudly serving Westminster, Maryland and surrounding regions. "
+          content="Westminster's Commercial and Residential Landscaping. Proudly serving Westminster, Maryland and surrounding regions. "
         />
       </Head>
       <Intro />

@@ -13,7 +13,7 @@ export default function Home({ services }) {
   return (
     <div>
       <Head>
-        <title>All Landscaping Services, LLC | Landscaping in Westminster, MD</title>
+        <title>All Landscaping Services, LLC | Westminster Landscaping Services</title>
         <meta name="google-site-verification" content="dc24KWyRESpQWDA8kk0H2jHprXUGDALBCxfVM7834KU" />
         <meta
           name="description"

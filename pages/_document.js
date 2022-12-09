@@ -6,13 +6,12 @@ export default function Document() {
     <Html>
       
       <Head>
-      <title>All Landscaping Services, LLC | Westminster Landscaping Services</title>
+      
       <meta name="google-site-verification" content="dc24KWyRESpQWDA8kk0H2jHprXUGDALBCxfVM7834KU" />
       <meta
           name="description"
           content="Commercial and Residential Landscaping. Proudly serving Westminster, Maryland and surrounding regions. "
         />
-                <meta name="viewport" content="width=device-width, initial-scale=1"></meta>
         <meta name="keywords" content="video streaming, the rock" />
         <meta property="og:title" content="Landscaping in Westminster, Maryland" />
         <meta property="og:type" content="video.movie" />

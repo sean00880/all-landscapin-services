@@ -5,4 +5,7 @@ module.exports = {
     loader: "imgix",
     path: "",
   },
+  typescript: {
+    ignoreBuildErrors: true
+}
 };

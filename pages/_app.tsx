@@ -10,7 +10,7 @@ function MyApp({ Component, pageProps }: AppProps) {
       
         <Layout>
         <Head>
-        <title>Leigh's Blog</title>
+        <title>Landscaping in Westminster, Maryland</title>
         
       </Head>
       <nav>

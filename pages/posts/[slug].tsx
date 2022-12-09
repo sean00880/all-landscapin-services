@@ -18,11 +18,12 @@ interface MDXPost {
 export default function PostPage({ post }: { post: MDXPost }) {
   return (
     <>
-    <div className="container">
       <Head>
         <title>{post.meta.title}</title>
       </Head>
-      <h1>{post.meta.title}</h1>
+      <div className="container">
+      <h1 className='heading'>{post.meta.title}</h1>
+      
       <MDXRemote {...post.source} components={{ YouTube, Image }} />
       </div>
     </>

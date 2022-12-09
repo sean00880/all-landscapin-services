@@ -12,11 +12,13 @@ export default function TagPage({
 }) {
   return (
     <>
+    <div className="container">
       <Head>
         <title>Tag: {slug}</title>
       </Head>
       <h1>Tag: {slug}</h1>
       <Articles posts={posts} />
+      </div>
     </>
   );
 }

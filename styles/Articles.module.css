@@ -6,14 +6,25 @@
 
 .list li {
   margin-bottom: 2rem;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
 }
 
 .title {
   font-size: 1.25rem;
+  color: rgb(41, 114, 41);
 }
 
 .tags {
   font-size: 0.75rem;
+  color: greenyellow;
+  background-color: rgb(26, 24, 24);
+  letter-spacing: 3px;
+  justify-content: space-evenly;
+  display: flex;
+  flex-direction: row;
+  line-height: 3;
 }
 .tags a:after {
   content: " . ";
@@ -22,9 +33,18 @@
   content: "";
 }
 
+.h1{
+  text-align: center;
+}
+
 .container {
-  max-width: 800px;
   padding: 1rem;
   margin-top: 190px 0;
   min-height: calc(100vh - 190px);
+}
+
+.heading{
+  color: green;
+  text-decoration: underline;
+  align-self: left;
 }

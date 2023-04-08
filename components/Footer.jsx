@@ -28,8 +28,8 @@ const Footer = () => {
         </div>
         <div className={style.cardItem}>
           Website Created by:
-          <br /> DECODED Web <br></br>
-          <a href='https://www.decodedweb.us/' >https://www.decodedweb.us/</a>
+          <br /> Site Dominion LLC<br></br>
+          <a href='https://www.sitedominion.com/' >https://www.sitedominion.com/</a>
         </div>
         <div className={style.cardItem}>
           alllandscapingservicesllc@gmail.com
